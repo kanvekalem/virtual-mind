@@ -1,4 +1,4 @@
-[[Planlar]]
+[[Planlar tesr]]
 
 
 Kurgusal kitap konu ; pakistandan denizden uzaktan kumanda ile getirilen

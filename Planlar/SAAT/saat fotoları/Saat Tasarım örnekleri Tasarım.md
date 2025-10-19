@@ -1,4 +1,4 @@
-[[Planlar]]
+[[Planlar tesr]]
 
 ![[Ekran Resmi 2024-10-14 00.09.12.png]]
 

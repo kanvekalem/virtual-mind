@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planlar.md",
+                "file": "Planlar tesr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planlar"
+              "title": "Planlar tesr"
             }
           }
         ]
@@ -191,13 +191,14 @@
       "canvas:Yeni tuval oluşturun": false,
       "daily-notes:Bugünün Notunu Aç": false,
       "templates:Şablon ekle": false,
-      "command-palette:Komut paletini aç": false
+      "command-palette:Komut paletini aç": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "1a8536fcbefb04f1",
   "lastOpenFiles": [
     "Sol El mouse Encoderlı.md",
-    "Planlar.md",
+    "Planlar tesr.md",
     "2025-10-19.md",
     "Başlıksız 3.canvas",
     "Başlıksız",
