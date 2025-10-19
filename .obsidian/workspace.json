@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6de022564c2e50bf",
+        "id": "dadea09a5c4a8502",
         "type": "tabs",
         "children": [
           {
-            "id": "0bae5afaf49805a9",
+            "id": "0796b8c0af56934e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -193,18 +193,20 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "0bae5afaf49805a9",
+  "active": "8fb5ea1c24ab55d0",
   "lastOpenFiles": [
+    "2025-10-19.md",
+    "2024-11-24.md",
     "Planlar tesr.md",
     "Sol El mouse Encoderlı.md",
-    "2025-10-19.md",
+    "yedek ici",
+    "adsız klasör",
     "Başlıksız 3.canvas",
     "Başlıksız",
     "Başlıksız 2.base",
     "Başlıksız 3.base",
     "Başlıksız 1.base",
     "Başlıksız.base",
-    "2024-11-24.md",
     "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Aristotoles \"Etos , Patos,Logos\".md",
     "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Atatürk Refarandum.md",
     "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Anlatım Güçlendirme.md",
@@ -226,7 +228,6 @@
     "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Alışmak.md",
     "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Na..i başkanına Suik...md",
     "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Kırmızı Bavul.md",
-    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Gösteri Hikayeleri.md",
     "Planlar/KİTAP VE RETORİK/KİTAP/KELİMELER TAGS VE ANLATIM GÜÇLENDİRME/GÖSTERİ HİKAYELERİ/Başlıksız",
     "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ",
     "Başlıksız 2.canvas",
@@ -243,8 +244,6 @@
     "Planlar/ELEKTRİK TEKNİK/467958550_122191315316085786_8989854500109239605_n.jpg",
     "Planlar/ELEKTRİK TEKNİK/467833081_122191315064085786_8456399478888344607_n.jpg",
     "Planlar/ELEKTRİK TEKNİK/467620873_122190769940085786_5983026223681527261_n.jpg",
-    "Planlar/ELEKTRİK TEKNİK",
-    "Planlar/YAZILIM/SOSYAL MEDYA/PAYLAŞIMLIKLAR",
     "Başlıksız/Başlıksız.canvas",
     "Planlar/Pense/Başlıksız.canvas"
   ]
