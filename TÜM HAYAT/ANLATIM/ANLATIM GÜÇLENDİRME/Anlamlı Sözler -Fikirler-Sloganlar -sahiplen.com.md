@@ -1,4 +1,4 @@
-
+[[Anlatım Güçlendirme]]
 Örneğin Savunma Sanayide kullanılacak veya sert bir partide 
 "İyiliğin Kazanması için Kötülerin yok edilmesi gerekli"
 "En çok kötülüğü/kötüyü yok eden , En iyi olanımızdır"
