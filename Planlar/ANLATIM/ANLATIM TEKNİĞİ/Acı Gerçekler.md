@@ -1,0 +1,1 @@
+[[Anlatım Güçlendirme]]

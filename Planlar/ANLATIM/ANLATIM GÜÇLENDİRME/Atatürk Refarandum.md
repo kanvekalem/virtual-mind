@@ -1,0 +1,2 @@
+[[Haklı Çıkmak]]
+Gazi Mustafa Kemal o kaos dönemde Türk milletine refarandum yapsaydı (bir tarafda padişahın fikirleri karşı tarafda bir paşanın fikirleri) Türk milletinin çoğunluk cevabı “ Yine de Padişahın sözünden çıkmayalım , Sonuç da sen kimsin ki padişahdan iyi bileceksin “ derler miydi demezler miydi? ( O padişah ki bir süre sonra İngiliz savaş gemisi içinde giden padişahdır. ) “ (fordun halka sorsam hızlı at üret araba değil diyeceği gibi)

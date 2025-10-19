@@ -1,0 +1,1 @@
+[[Anlatım Tekniği]]Socrates in kullandığı retorik tekniği karşı tarafa sorular yönelterek sonuça ilerlemekdir

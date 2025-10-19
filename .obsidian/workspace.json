@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "6364b895cce957fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5066bbe38e930e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8536fcbefb04f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planlar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planlar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "154c07e63d40a450",
+    "type": "split",
+    "children": [
+      {
+        "id": "6813c2af96a537de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fb5ea1c24ab55d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dosya Gezgini"
+            }
+          },
+          {
+            "id": "2b084eceabed228c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Vault",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ara"
+            }
+          },
+          {
+            "id": "b2e606cb482fa44e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Yer İmleri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "b758d09d883b6f05",
+    "type": "split",
+    "children": [
+      {
+        "id": "f041274da6ed3e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "390b324532ee7134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Planlar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Planlar için geri bağlantılar"
+            }
+          },
+          {
+            "id": "6e2dc412d16fba13",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "11f14b6b9f44c398",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Grafik Görünümü"
+            }
+          },
+          {
+            "id": "9e3eb5e8e74be3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planlar/SAAT KLASÖRÜ/Saat Tasarım örnekleri Tasarım.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saat Tasarım örnekleri Tasarım"
+            }
+          },
+          {
+            "id": "fe51b1090a09ebce",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
+            }
+          },
+          {
+            "id": "3ffa0ee23f50bc1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Anahat"
+            }
+          },
+          {
+            "id": "2e98a2012ef3ae2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Giden bağlantılar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Grafik görünümünü aç": false,
+      "switcher:Hızlı geçişi aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false
+    }
+  },
+  "active": "1a8536fcbefb04f1",
+  "lastOpenFiles": [
+    "Sol El mouse Encoderlı.md",
+    "Planlar.md",
+    "2025-10-19.md",
+    "Başlıksız 3.canvas",
+    "Başlıksız",
+    "Başlıksız 2.base",
+    "Başlıksız 3.base",
+    "Başlıksız 1.base",
+    "Başlıksız.base",
+    "2024-11-24.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Aristotoles \"Etos , Patos,Logos\".md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Atatürk Refarandum.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Anlatım Güçlendirme.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Anlamlı Sözler -Fikirler-Sloganlar -sahiplen.com.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/\"-Ya Hiç konuşmazsa...\".md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Metro daki Kemancı.md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Olasılıksız kitapından bir örnek.md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Resimde İnsanlar hata arar.md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Sadece sessiz harfleri kullanaral.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Zorluk.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Yanılmak.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Ters Köşe.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Planlama.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Ceza.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Anlatım Tekniği.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Ölüm Öpücüğü.md",
+    "Planlar/KİTAP VE RETORİK/KİTAP/KİTAP.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Acı Gerçekler.md",
+    "Planlar/ANLATIM/ANLATIM TEKNİĞİ/Alışmak.md",
+    "Planlar/ANLATIM/ANLATIM GÜÇLENDİRME/Na..i başkanına Suik...md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Kırmızı Bavul.md",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ/Gösteri Hikayeleri.md",
+    "Planlar/KİTAP VE RETORİK/KİTAP/KELİMELER TAGS VE ANLATIM GÜÇLENDİRME/GÖSTERİ HİKAYELERİ/Başlıksız",
+    "Planlar/ANLATIM/GÖSTERİ HİKAYELERİ",
+    "Başlıksız 2.canvas",
+    "Başlıksız 1.canvas",
+    "Başlıksız.canvas",
+    "Planlar/SAAT/saat fotoları/Ekran Resmi 2024-10-31 23.02.16.png",
+    "Planlar/SAAT/saat fotoları/Ekran Resmi 2024-11-24 23.19.38.png",
+    "Planlar/SAAT/saat fotoları",
+    "Planlar/SAAT/saat fotoları/466977909_550656754395563_5240151117282009_n.jpg",
+    "Planlar/SAAT/saat fotoları/Ekran Resmi 2024-11-23 01.52.35.png",
+    "Planlar/SAAT/saat fotoları/Ekran Resmi 2024-10-14 00.09.12.png",
+    "Planlar/ELEKTRİK TEKNİK/312097716_553775073419407_2309071910773485942_n.jpg",
+    "Planlar/ELEKTRİK TEKNİK/435688259_850054077136083_5581541712308190776_n.jpg",
+    "Planlar/ELEKTRİK TEKNİK/467958550_122191315316085786_8989854500109239605_n.jpg",
+    "Planlar/ELEKTRİK TEKNİK/467833081_122191315064085786_8456399478888344607_n.jpg",
+    "Planlar/ELEKTRİK TEKNİK/467620873_122190769940085786_5983026223681527261_n.jpg",
+    "Planlar/ELEKTRİK TEKNİK",
+    "Planlar/YAZILIM/SOSYAL MEDYA/PAYLAŞIMLIKLAR",
+    "Başlıksız/Başlıksız.canvas",
+    "Planlar/Pense/Başlıksız.canvas"
+  ]
+}

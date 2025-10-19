@@ -1,0 +1,2 @@
+[[Zorluk]][[Alışmak]]
+[[Ters Köşe]]

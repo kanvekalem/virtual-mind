@@ -1,0 +1,5 @@
+[[Haklı Çıkmak]][[Zorluk]]Cassandra sendromu, bu ismi mitolojide geleceği daha önceden görse de söylediklerine inanılmayan Cassandra’dan almıştır. Mitolojiye göre tanrı Apollon tarafından geleceği görme yetisi verilen Cassandra, Apollon’a verdiği sözü tutmayınca lanetlenmiş ve geleceği görse de söylediklerine kimseyi inandıramamıştır. Söylediklerine inanılmayan Cassandra’nın yaşadıkları da psikolojide bilinçli bir insanın yaşadığı trajedi olarak bilinmektedir.
+
+## **Cassandra Sendromu Nedir?**
+
+Psikoloji alanında “Cassandra sendromu” olarak bilinen durum, kısaca kişinin gelişmiş öngörü ya da sezgi yeteneği ile gelecekte yaşanacak olan acıları doğaüstü bir şekilde bilmesidir. Bu durumda kişi, henüz meydana gelmeden önce bazı olayları görse de insanları buna inandıramamaktadır. Ayrıca birey, yaşanacak olan olayları engelleyemediği için Cassandra sendromuna bağlı olarak depresyon yaşamaktadır. Bu sendromu yaşayan kişiler, gördüklerine kimseyi inandıramadıkları için depresif bir ruh haline bürünmekte ve vicdan azabı çekmektedir. Ayrıca bireyler, kendileri ile içsel bir çelişkiye de düşmektedir.
