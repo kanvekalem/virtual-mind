@@ -11,10 +11,10 @@
             "id": "84c0f25c272c8b55",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Yeni sekme"
+              "icon": "lucide-git-fork",
+              "title": "Grafik Görünümü"
             }
           }
         ]
@@ -163,9 +163,9 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "3d72ffb3d3466f56",
+  "active": "84c0f25c272c8b55",
   "lastOpenFiles": [
-    "Başlıksız.canvas",
-    "2025-10-20.md"
+    "2025-10-20.md",
+    "Başlıksız.canvas"
   ]
 }
