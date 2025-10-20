@@ -11,17 +11,10 @@
             "id": "84c0f25c272c8b55",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Başlıksız.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Başlıksız"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
             }
           }
         ]
@@ -170,9 +163,9 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "84c0f25c272c8b55",
+  "active": "3d72ffb3d3466f56",
   "lastOpenFiles": [
-    "2025-10-20.md",
-    "Başlıksız.canvas"
+    "Başlıksız.canvas",
+    "2025-10-20.md"
   ]
 }
