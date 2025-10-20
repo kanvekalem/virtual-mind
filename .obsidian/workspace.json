@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd6e84dc51ff101",
+        "id": "eb725826cfd789cd",
         "type": "tabs",
         "children": [
           {
-            "id": "84c0f25c272c8b55",
+            "id": "e8821f7d5b44dfa8",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafik Görünümü"
+              "icon": "lucide-file",
+              "title": "Yeni sekme"
             }
           }
         ]
@@ -163,7 +163,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "84c0f25c272c8b55",
+  "active": "e8821f7d5b44dfa8",
   "lastOpenFiles": [
     "2025-10-20.md",
     "Başlıksız.canvas"
