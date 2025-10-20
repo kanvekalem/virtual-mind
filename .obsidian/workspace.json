@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb725826cfd789cd",
+        "id": "8d528921840d23e9",
         "type": "tabs",
         "children": [
           {
-            "id": "e8821f7d5b44dfa8",
+            "id": "b747dd6f1a36f959",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,7 +163,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e8821f7d5b44dfa8",
+  "active": "b747dd6f1a36f959",
   "lastOpenFiles": [
     "2025-10-20.md",
     "Başlıksız.canvas"
