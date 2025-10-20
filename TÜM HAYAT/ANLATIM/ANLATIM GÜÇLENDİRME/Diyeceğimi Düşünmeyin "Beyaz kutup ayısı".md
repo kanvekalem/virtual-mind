@@ -1,1 +1,0 @@
-[[Anlatım Tekniği]] Diyeceğimi Düşünmeyin "Beyaz kutup ayısı" veya "pempe fil" Şimdi ne düşündünüz ?

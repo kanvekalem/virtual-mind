@@ -1,1 +1,0 @@
-[[PCBWAY VEYA JLCPCB]]

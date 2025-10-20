@@ -1,24 +1,27 @@
 {
   "main": {
-    "id": "6364b895cce957fd",
+    "id": "ca5afe74127071d7",
     "type": "split",
     "children": [
       {
-        "id": "a552c0a7e36af538",
+        "id": "fdd6e84dc51ff101",
         "type": "tabs",
         "children": [
           {
-            "id": "98f978490c347aed",
+            "id": "84c0f25c272c8b55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TÜM HAYAT/Yapılacaklar listesi -Görevler - Do list/Yapılacaklar listesi -Görevler - Do list.md",
-                "mode": "source",
-                "source": false
+                "file": "Başlıksız.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Yapılacaklar listesi -Görevler - Do list"
+              "icon": "lucide-layout-dashboard",
+              "title": "Başlıksız"
             }
           }
         ]
@@ -27,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "154c07e63d40a450",
+    "id": "e2f06a61d47b5a4f",
     "type": "split",
     "children": [
       {
-        "id": "6813c2af96a537de",
+        "id": "e5e9e28d399bf8bb",
         "type": "tabs",
         "children": [
           {
-            "id": "8fb5ea1c24ab55d0",
+            "id": "3d72ffb3d3466f56",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +51,7 @@
             }
           },
           {
-            "id": "2b084eceabed228c",
+            "id": "fb6a07eca857bff0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +68,7 @@
             }
           },
           {
-            "id": "b2e606cb482fa44e",
+            "id": "a1912eea86cc177a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +81,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 300
   },
   "right": {
-    "id": "b758d09d883b6f05",
+    "id": "c8f6545be8c4c400",
     "type": "split",
     "children": [
       {
-        "id": "f041274da6ed3e33",
+        "id": "c85b29bcb3b1a8a2",
         "type": "tabs",
         "children": [
           {
-            "id": "390b324532ee7134",
+            "id": "03668f5ab6f2a0a8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planlar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,68 +106,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Planlar için geri bağlantılar"
+              "title": "Geri Bağlantılar"
             }
           },
           {
-            "id": "6e2dc412d16fba13",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Etiketler"
-            }
-          },
-          {
-            "id": "11f14b6b9f44c398",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Grafik Görünümü"
-            }
-          },
-          {
-            "id": "9e3eb5e8e74be3cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planlar/SAAT KLASÖRÜ/Saat Tasarım örnekleri Tasarım.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Saat Tasarım örnekleri Tasarım"
-            }
-          },
-          {
-            "id": "fe51b1090a09ebce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Yeni sekme"
-            }
-          },
-          {
-            "id": "3ffa0ee23f50bc1b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Anahat"
-            }
-          },
-          {
-            "id": "2e98a2012ef3ae2c",
+            "id": "749e3d88235afcf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -176,79 +121,58 @@
               "icon": "links-going-out",
               "title": "Giden bağlantılar"
             }
+          },
+          {
+            "id": "3fd5ae8a17c3062b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiketler"
+            }
+          },
+          {
+            "id": "62ae7e1069f08e25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Anahat"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "graph:Grafik görünümünü aç": false,
       "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
       "canvas:Yeni tuval oluşturun": false,
       "daily-notes:Bugünün Notunu Aç": false,
       "templates:Şablon ekle": false,
       "command-palette:Komut paletini aç": false,
+      "bases:Create new base": false,
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "8fb5ea1c24ab55d0",
+  "active": "84c0f25c272c8b55",
   "lastOpenFiles": [
-    "Başlıksız",
-    "TÜM HAYAT/YAZILIM/IQ contac.md",
-    "TÜM HAYAT/YAZILIM/Sahiplen.com.md",
-    "TÜM HAYAT/YAZILIM/Yazılım.md",
-    "TÜM HAYAT/Yapılacaklar listesi -Görevler - Do list/Yapılacaklar listesi -Görevler - Do list.md",
-    "TÜM HAYAT/KİTAP VE RETORİK/KİTAP/KİTAP.md",
-    "TÜM HAYAT/ÖNEMLİ EVRAK-BİLGİ/ÖNEMLİ EVRAK-BİLGİ.md",
-    "TÜM HAYAT/Alış Veriş/Alış Veriş.md",
-    "TÜM HAYAT/ÖNEMLİ EVRAK-BİLGİ",
-    "TÜM HAYAT/Alış Veriş",
-    "TÜM HAYAT/Pense/Pense ye eklenmesi gerekenler.md",
-    "TÜM HAYAT/YAZILIM/SOSYAL MEDYA/PAYLAŞIMLIKLAR/İLGİNÇLER/İlginçler.md",
-    "TÜM HAYAT/YAZILIM/SOSYAL MEDYA/Türk Sesi.md",
-    "TÜM HAYAT/YAZILIM/SOSYAL MEDYA/Sosyal Medya.md",
-    "TÜM HAYAT/YAZILIM/SOSYAL MEDYA/FİKİRLER/Ekran Resmi 2024-11-20 23.36.39.png",
-    "TÜM HAYAT/YAZILIM/SOSYAL MEDYA/FİKİRLER/Fikirler.md",
-    "TÜM HAYAT/ANLATIM/GÖSTERİ HİKAYELERİ/Kırmızı Bavul.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Anlamlı Sözler -Fikirler-Sloganlar -sahiplen.com.md",
-    "TÜM HAYAT/Yapılacaklar listesi -Görevler - Do list",
-    "Başlıksız.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Ölüm Öpücüğü.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/\"-Ya Hiç konuşmazsa...\".md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Anlatım Güçlendirme.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM TEKNİĞİ/Ceza.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM TEKNİĞİ/Anlatım Tekniği.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM TEKNİĞİ/Acı Gerçekler.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Yoksul  Çocuk Babasına Sorar ....md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Cassandra sendromu.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Cehov ve Tüfek.md",
-    "TÜM HAYAT/ANLATIM/ANLATIM GÜÇLENDİRME/Disiplinle ile robotlaştırma farkı.md",
-    "yedek ici",
-    "adsız klasör",
-    "Başlıksız 3.canvas",
-    "Başlıksız 2.base",
-    "Başlıksız 3.base",
-    "Başlıksız 1.base",
-    "Başlıksız.base",
-    "Başlıksız 2.canvas",
-    "Başlıksız 1.canvas",
-    "Başlıksız.canvas",
-    "TÜM HAYAT/SAAT/saat fotoları/Ekran Resmi 2024-10-31 23.02.16.png",
-    "TÜM HAYAT/SAAT/saat fotoları/Ekran Resmi 2024-11-24 23.19.38.png",
-    "TÜM HAYAT/SAAT/saat fotoları/466977909_550656754395563_5240151117282009_n.jpg",
-    "TÜM HAYAT/SAAT/saat fotoları/Ekran Resmi 2024-11-23 01.52.35.png",
-    "TÜM HAYAT/SAAT/saat fotoları/Ekran Resmi 2024-10-14 00.09.12.png",
-    "TÜM HAYAT/ELEKTRİK TEKNİK/312097716_553775073419407_2309071910773485942_n.jpg",
-    "TÜM HAYAT/ELEKTRİK TEKNİK/435688259_850054077136083_5581541712308190776_n.jpg",
-    "TÜM HAYAT/ELEKTRİK TEKNİK/467958550_122191315316085786_8989854500109239605_n.jpg",
-    "TÜM HAYAT/ELEKTRİK TEKNİK/467833081_122191315064085786_8456399478888344607_n.jpg",
-    "Başlıksız/Başlıksız.canvas",
-    "Planlar/Pense/Başlıksız.canvas"
+    "2025-10-20.md",
+    "Başlıksız.canvas"
   ]
 }

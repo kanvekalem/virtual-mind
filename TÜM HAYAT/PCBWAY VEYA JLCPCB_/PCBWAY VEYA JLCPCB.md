@@ -1,1 +1,0 @@
-[[Planlar tesr]]
